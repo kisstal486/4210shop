@@ -1,0 +1,20 @@
+[
+  {
+      "breadcrumbs": [
+        {
+          "name": "Home",
+          "parent": "",
+          "path": "/"
+        },
+        {
+          "name": "Category",
+          "parent": {
+            "name": "Home",
+            "parent": "",
+            "path": "/"
+          },
+          "path": "/category"
+        }
+      ]
+  }
+]

@@ -1,0 +1,25 @@
+/*phone*/
+@media screen and (max-width: 720px){
+
+    .productCard-product-thumbnail{
+        margin :20px;
+        margin-bottom: 50px;
+    }
+}
+
+/*web*/
+@media screen and (min-width: 720px){
+    .product-intro-card{
+        display: grid;
+        padding: 20px;
+        height: 400px;
+        grid-template-columns: 40% 60%;
+    }
+
+    .product-intro-card-img{
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+}
